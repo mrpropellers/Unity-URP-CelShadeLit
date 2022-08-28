@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+  },
+  "description": "Unity URP Cel Shading Lit",
+  "displayName": "Cel Shading",
+  "name": "leftout.urp-cel-shading",
+  "unity": "2018.4",
+  "version": "0.0.1",
+  "samples": [
+  ]
+}
